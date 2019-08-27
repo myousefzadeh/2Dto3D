@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
-
+# My test on GIT
 imgC = cv2.imread('PlanSample1.jpg',0)
 # PIL accesses images in Cartesian co-ordinates, so it is Image[columns, rows]
 #imgP = PIL.Image.open('PlanSample1.jpg').convert('RGB') 
