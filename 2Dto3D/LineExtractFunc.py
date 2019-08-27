@@ -3,7 +3,9 @@ This function extracts the straight border lines of objects from an input image
 Input: image of 2D drawing of a level of building
 Output: Line properities (Start & End) in pixels
 Developed by Meisam Yousefzadeh 9 April 2018
+This version is for git tutorial
 '''
+
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
